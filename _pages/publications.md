@@ -14,7 +14,7 @@ author_profile: true
 {% for pub in site.publications reversed %}
 __{{pub.title}}__
 {% if pub.authors %}
-with {{pub.authors}}.\
+with {{pub.authors}}.
 {% endif %}
 {{pub.venue}}
 {% if pub.link %} <a href="{{ pub.link }}"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a> {% endif %}
