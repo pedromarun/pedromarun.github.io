@@ -12,7 +12,7 @@ author_profile: true
 {% include base_path %}
 
 {% for pub in site.publications reversed %}
-__{{pub.title}}__
+__{{pub.title}}__\
 {{pub.date}}
 {% if pub.authors %}
 with {{pub.authors}}.
