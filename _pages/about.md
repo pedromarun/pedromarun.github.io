@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Under construction
+I am a fifth year PhD student at Carnegie Mellon University, working in Set Theory. My advisor is James Cummings. I'm interested in forcing, infinitary combinatorics and applications of set theory to analysis.
