@@ -9,3 +9,5 @@ location: "Pittsburgh, Pennsylvania"
 ---
 
 Unlike compactness, the Lindelöf property need not be preserved under products. The analogous properties at bigger cardinals lead one to large cardinal notions. We extend the classical Sorgenfrey plane construction to larger spaces, provided some cardinal arithmetic assumptions hold. This allows us to remove a hypothesis from a result of Buhagiar and Džamonja.
+
+[Slides](/files/beamer_Pitt_handout.pdf)
