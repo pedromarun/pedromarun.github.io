@@ -13,6 +13,7 @@ author_profile: true
 
 {% for pub in site.publications reversed %}
 __{{pub.title}}__
+{{pub.date}}
 {% if pub.authors %}
 with {{pub.authors}}.
 {% endif %}
