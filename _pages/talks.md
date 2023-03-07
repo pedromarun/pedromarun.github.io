@@ -8,7 +8,9 @@ author_profile: true
 {% include base_path %}
 
 {% for talk in site.talks reversed %}
-__{{talk.title}}__
-{{talk.date | date: "%-d %B %Y" }}
-{{talk.venue}}
+__{{talk.title}}__\
+{{talk.date | date: "%-d %B %Y" }}\
+{{talk.venue}}\
+{% if talk.fileurl %}
+{% endif %}
 {% endfor %}
