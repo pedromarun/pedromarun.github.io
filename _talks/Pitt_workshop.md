@@ -2,7 +2,7 @@
 title: "Square compactness and dense linear orders"
 collection: talks
 type: "Talk"
-permalink: /talks/2012-03-01-talk-1
+permalink: /talks/pitt_workshop
 venue: "University of Pittsburgh"
 date: 2022-09-03
 location: "Pittsburgh, Pennsylvania"
