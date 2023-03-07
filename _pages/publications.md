@@ -14,9 +14,7 @@ author_profile: true
 {% for pub in site.publications reversed %}
 __{{pub.title}}__\
 {{pub.venue}}. ({{pub.date | date: "%Y" }})
-{% if pub.authors %}
-with {{pub.authors}}.
-{% endif %}
+{% if pub.authors %} with {{pub.authors}}.{% endif %}
 {% if pub.link %} <a href="{{ pub.link }}"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a> {% endif %}
 {% if pub.fileurl %} <a href="{{ pub.fileurl }}"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a> {% endif %}
 {% endfor %}
