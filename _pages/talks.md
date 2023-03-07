@@ -12,5 +12,6 @@ __{{talk.title}}__\
 {{talk.date | date: "%-d %B %Y" }}\
 {{talk.venue}}\
 {% if talk.fileurl %}
+[Slides]{talk.fileurl}
 {% endif %}
 {% endfor %}
