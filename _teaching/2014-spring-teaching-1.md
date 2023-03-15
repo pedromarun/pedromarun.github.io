@@ -19,6 +19,7 @@ Teaching Assistant
 •   Fall 2019:   Lead teaching assistant for Matrices and Linear Transformations (21‑241).  
 •   Spring 2019:   Teaching assistant for Matrices and Linear Transformations (21‑241).  
 •   Fall 2018:   Teaching assistant for Multivariate Analysis (21‑256).  
+
 Heading 1
 ======
 
