@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: ""
-date: ""
+date: "2018-08-01"
 location: "Pittsburgh, PA, USA"
 ---
 
