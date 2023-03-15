@@ -3,7 +3,6 @@ title: "Carnegie Mellon University"
 collection: teaching
 type: "Teaching assistant while a PhD student"
 permalink: /teaching/2014-spring-teaching-1
-venue: ""
 date: "2018-08-01"
 location: "Pittsburgh, PA, USA"
 ---
@@ -19,12 +18,3 @@ Carnegie Mellon University
 •   Fall 2019:   Lead TA for Matrices and Linear Transformations (21‑241).  
 •   Spring 2019:   TA for Matrices and Linear Transformations (21‑241).  
 •   Fall 2018:   TA for Multivariate Analysis (21‑256).  
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
