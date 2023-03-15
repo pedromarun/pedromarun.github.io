@@ -1,15 +1,13 @@
 ---
 title: "Carnegie Mellon University"
 collection: teaching
-type: "Undergraduate course"
+type: "Teaching assistant while a PhD student"
 permalink: /teaching/2014-spring-teaching-1
-venue: ""
-date: "2018-08-01"
 location: "Pittsburgh, PA, USA"
 ---
 
 Carnegie Mellon University  
-Teaching Assistant  
+
 •   Fall 2022:   Lead Teaching Assistant for Matrices and Linear Transformations (21‑241).  
 •   Spring 2022:   Lead teaching assistant for Concepts of Mathematics (21‑127).  
 •   Fall 2021:   Grader for Basic Logic (21‑300).  
