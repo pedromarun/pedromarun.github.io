@@ -1,20 +1,17 @@
 ---
-title: "Teaching experience 2"
+title: "Universidad Nacional de La Plata"
 collection: teaching
-type: "Workshop"
+type: "Ayudante Alumno"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
 date: 2015-01-01
-location: "City, Country"
+location: "La Plata, Buenos Aires, Argentina"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Universidad Nacional de La Plata
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+• Primer cuatrimestre de 2018: Ayudante alumno para Matemáticas Especiales.
+• Primer Cuatrimestre de 2018: Ayudante alumno para Análisis Matemático II.
+• Segundo Cuatrimestre de 2017: Ayudante alumno para Complementos de Análisis.
+• Primer Cuatrimestre de 2017: Ayudante alumno para Análisis Matemático II.
+• Primer Cuatrimestre de 2017: Ayudante alumno para Análisis Matemático I.
+• Segundo Cuatrimestre de 2016: Ayudante alumno para Álgebra CIBEX (Recursada)
