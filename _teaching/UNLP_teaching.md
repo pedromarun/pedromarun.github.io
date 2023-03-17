@@ -2,7 +2,7 @@
 title: "Universidad Nacional de La Plata"
 collection: teaching
 type: "Ayudante Alumno"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/UNLP_teaching
 date: 2015-01-01
 location: "La Plata, Buenos Aires, Argentina"
 ---

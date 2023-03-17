@@ -2,7 +2,7 @@
 title: "Carnegie Mellon University"
 collection: teaching
 type: "Teaching assistant while a PhD student"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/CMU_teaching
 date: "2018-08-01"
 location: "Pittsburgh, PA, USA"
 ---
