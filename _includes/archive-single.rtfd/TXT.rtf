@@ -27,7 +27,9 @@
 \pard\pardeftab720\partightenfactor0
 \cf2 \{% endif %\} \{% if post.collection == 'teaching' %\}\
 \pard\pardeftab720\sa240\partightenfactor0
-\cf2 \{\{ post.type \}\}\
+\cf2 \{\{ post.type \}\}, 
+\f2\i \{\{ post.venue \}\}
+\f0\i0 , \{\{ post.date | default: "1900-01-01" | date: "%Y" \}\} \
 \pard\pardeftab720\partightenfactor0
 \cf2 \{% elsif post.collection == 'publications' %\}\
 \pard\pardeftab720\sa240\partightenfactor0
