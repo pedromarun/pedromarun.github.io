@@ -7,7 +7,7 @@ date: "2018-08-01"
 location: "Pittsburgh, PA, USA"
 ---
 
-===
+2018-Current
 
  - Fall 2022:   Lead TA for Matrices and Linear Transformations (21‑241).
  - Spring 2022:   Lead TA for Concepts of Mathematics (21‑127).

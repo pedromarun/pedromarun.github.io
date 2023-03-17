@@ -7,7 +7,7 @@ date: 2015-01-01
 location: "La Plata, Buenos Aires, Argentina"
 ---
 
-===
+2016-2018
 
  - Primer cuatrimestre de 2018: Ayudante alumno para Matemáticas Especiales I (Recursada).
  - Primer Cuatrimestre de 2018: Ayudante alumno para Análisis Matemático II.
