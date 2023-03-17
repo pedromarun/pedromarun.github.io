@@ -1,7 +1,7 @@
 ---
 title: "Square compactness and dense linear orders"
 collection: talks
-type: "Talk"
+type: "New Frontiers in Set Theoretic Topology Workshop"
 permalink: /talks/pitt_workshop
 venue: "University of Pittsburgh"
 date: 2022-09-03
