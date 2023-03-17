@@ -7,4 +7,4 @@ author_profile: true
 
 {% include base_path %}
 
-Notes will be here.
+Please let me know if you find any mistakes.
