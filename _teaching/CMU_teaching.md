@@ -7,6 +7,8 @@ date: "2018-08-01"
 location: "Pittsburgh, PA, USA"
 ---
 
+===
+
  - Fall 2022:   Lead TA for Matrices and Linear Transformations (21‑241).
  - Spring 2022:   Lead TA for Concepts of Mathematics (21‑127).
  - Fall 2021:   Grader for Basic Logic (21‑300).
