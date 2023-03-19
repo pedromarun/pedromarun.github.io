@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Miscellaneous notes I've written on some topics. Some of these were written for my own benefit, as some things can be hard to find in the published literature. Hopefully, someone else finds them useful. More notes will be added eventually.
+Miscellaneous notes I've written, usually for my own benefit, as some things can be hard to find in the published literature. Hopefully, someone else finds them useful. More notes will be added eventually.
 
 These have not been carefully proof-read, so please let me know if you find any mistakes. 
 
