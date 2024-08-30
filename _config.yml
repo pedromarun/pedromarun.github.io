@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Pedro Marun"
   avatar           : "profile.png"
-  bio              : "pmarun at andrew dot cmu dot edu"
-  location         : "Pittsburgh, PA"
+  bio              : 
+  location         : "Prague, Czechia"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "marun@math.cas.cz"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

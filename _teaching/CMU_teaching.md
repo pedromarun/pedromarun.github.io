@@ -7,8 +7,10 @@ date: "2018-08-01"
 location: "Pittsburgh, PA, USA"
 ---
 
-2018-Current
+2018-2024
 
+ - Spring 2024: Lead TA for Matrices and Linear Transformations (21‑241).
+ - Fall 2023: Introduction to Mathematical Concepts (21-108)
  - Fall 2022:   Lead TA for Matrices and Linear Transformations (21‑241).
  - Spring 2022:   Lead TA for Concepts of Mathematics (21‑127).
  - Fall 2021:   Grader for Basic Logic (21‑300).
