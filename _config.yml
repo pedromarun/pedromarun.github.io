@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Pedro Marun"
 title_separator          : "-"
 name                     : &name "Pedro Marun"
-description              : &description "PhD Student"
+description              : &description "Postdoc"
 url                      : https://pedromarun.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "pedromarun/pedromarun.github.io"
@@ -243,7 +243,7 @@ defaults:
     values:
       layout: talk
       author_profile: true
-      share: true
+      share: true   
 
 # Sass/SCSS
 sass:
