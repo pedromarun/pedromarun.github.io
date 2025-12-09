@@ -1,13 +1,14 @@
 ---
 title: "Carnegie Mellon University"
 collection: teaching
-type: "Teaching assistant while a PhD student"
+type: "Teaching assistant while a PhD student (2018-2024)"
 permalink: /teaching/CMU_teaching
 date: "2018-08-01"
 location: "Pittsburgh, PA, USA"
 ---
 
-2018-2024
+[Teaching Evaluations](/files/Marun_teaching_evals.pdf)
+
 
  - Spring 2024: Lead TA for Matrices and Linear Transformations (21‑241).
  - Fall 2023: Introduction to Mathematical Concepts (21-108)
